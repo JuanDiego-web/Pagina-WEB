@@ -1,0 +1,89 @@
+<!DOCTYPE html> 
+<html lang="es">
+    
+    <head>
+        <meta charset="utf-8"/>
+        <title> Magnolona</title>
+        <meta name="description" content="tienda online de productos naturales y aromaticas"/>
+        <meta name="author" content="Juan Diego Alejandro Traslaviña Hernandez"/>
+        <meta name="keywords" content="aromaticas, productos naturales, servicios de plantacion, cartillas informativas"/>
+        <!--UNIR CSS-->
+        <link rel="stylesheet" href="styles.css">
+        <!--lINKS FUENTES -->
+        <link href="https://fonts.googleapis.com/css2?family=Satisfy&display=swap" rel="stylesheet">
+        <link href="https://fonts.googleapis.com/css2?family=Bitter&display=swap" rel="stylesheet">
+       
+    </head>
+    <body>
+        <div class="menu-btn">
+            <i class="fas fa-bars fa-2x"></i>
+          </div>
+       <div class="container">
+        <nav class="nav-main">
+            <img src="img/Magnolia (1).png" alt="Magnolia LOGO" class="nav-magnolia">
+            <ul class="nav-menu"> 
+                <li>
+                    <a href="index.html"> Principal </a> 
+                </li>
+                <li>
+                    <a href="about.html"> Quienes Somos </a>
+                </li>
+                <li>
+                    <a href="tienda virtual.html"> Tienda Online </a>
+                </li>
+            </ul>
+        </nav>
+        <hr>
+        
+        <!--CUERPO-->
+        <div class="container">
+            <div class="mySlides">
+                <img src="img/Plants.jpg" alt="imagen-1">
+            </div>
+            <div class="mySlides">
+                <img src="img/granos.jfif" alt="">
+            </div>
+            <div class="mySlides">
+                <img src="img/planta.jpg" alt="">
+            </div>
+            
+            <a class="prev" onclick="plusSlides(-1)">&#10094;</a>
+            <a class="next" onclick="plusSlides(1)">&#10095;</a>
+    
+            <div class="elements">
+                <span class="quadrate" onclick="currentSlide(1)"></span>
+                <span class="quadrate" onclick="currentSlide(2)"></span>
+                <span class="quadrate" onclick="currentSlide(3)"></span>
+            </div>
+        </div>
+
+<script src="main.js"></script>
+<div class="cuerpo-2">
+<div> 
+ <h1  >  Puedes encontrarnos</h1>
+</div>
+ <iframe class="maps" src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3972.689133281188!2d-73.81919984716893!3d5.311105711794912!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x8e40385d4628fe39%3A0x1182271333a05538!2sCl.%209%20%2310-61%2C%20Ubat%C3%A9%2C%20Villa%20de%20San%20Diego%20de%20Ubat%C3%A9%2C%20Cundinamarca!5e0!3m2!1ses!2sco!4v1677881549652!5m2!1ses!2sco" width="400" height="300" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+</div>
+
+<div class="cuerpo-3"> 
+    <div>
+  <h1 >Productos Naturales </h1>
+
+   <h2>Completos del campo </h2>
+</div>
+   <img src="img/paisaje.jpg" alt="natural" class="cuerpo-3-paisaje">
+
+</div>
+
+<div class="footer-form">
+    <h2 class="formulario">Comunicate con nosotros</h2>
+    
+<form>
+    <input class="campo"type="text" placeholder="Nombre">
+    <input class="campo"type="text" placeholder="Email">
+    <input class="campo"type="text" placeholder="Contacto">
+    <input class="btn_2"type="submit" value="Enviar">
+</form>
+</div>
+    </body>
+</html>

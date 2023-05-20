@@ -1,0 +1,163 @@
+
+[
+    {
+        "id": "aromatica-01",
+        "titulo": "aromatica-01",
+        "imagen": "./img/aromatica/01.jpg",
+        "categoria": {
+            "nombre": "Aromaticas",
+            "id": "aromaticas"
+        },
+        "precio": 1000
+    },
+    {
+        "id": "aromatica-02",
+        "titulo": "aromatica-02",
+        "imagen": "./img/aromatica/02.jpg",
+        "categoria": {
+            "nombre": "Aromaticas",
+            "id": "aromaticas"
+        },
+        "precio": 1000
+    },
+    {
+        "id": "aromatica-03",
+        "titulo": "aromatica-03",
+        "imagen": "./img/aromatica/03.jpg",
+        "categoria": {
+            "nombre": "Aromaticas",
+            "id": "aromaticas"
+        },
+        "precio": 1000
+    },
+    {
+        "id": "aromatica-04",
+        "titulo": "aromatica-04",
+        "imagen": "./img/aromatica/04.jpg",
+        "categoria": {
+            "nombre": "Aromaticas",
+            "id": "aromaticas"
+        },
+        "precio": 1000
+    },
+    {
+        "id": "aromatica-05",
+        "titulo": "aromatica-05",
+        "imagen": "./img/aromatica/05.jpg",
+        "categoria": {
+            "nombre": "Aromaticas",
+            "id": "aromaticas"
+        },
+        "precio": 1000
+    },
+    {
+        "id": "hogar-01",
+        "titulo": "hogar-01",
+        "imagen": "./img/hogar/01.jpg",
+        "categoria": {
+            "nombre": "Hogares",
+            "id": "hogares"
+        },
+        "precio": 1000
+    },
+    {
+        "id": "hogar-02",
+        "titulo": "hogar-02",
+        "imagen": "./img/hogar/02.jpg",
+        "categoria": {
+            "nombre": "Hogares",
+            "id": "hogares"
+        },
+        "precio": 1000
+    },
+    {
+        "id": "hogar-03",
+        "titulo": "hogar-03",
+        "imagen": "./img/hogar/03.jpg",
+        "categoria": {
+            "nombre": "Hogares",
+            "id": "hogares"
+        },
+        "precio": 1000
+    },
+    {
+        "id": "exterior-01",
+        "titulo": "exterior-01",
+        "imagen": "./img/exteriores/01.jpg",
+        "categoria": {
+            "nombre": "Exteriores",
+            "id": "exteriores"
+        },
+        "precio": 1000
+    },
+    {
+        "id": "exterior-02",
+        "titulo": "exterior-02",
+        "imagen": "./img/exteriores/02.jpg",
+        "categoria": {
+            "nombre": "Exteriores",
+            "id": "exteriores"
+        },
+        "precio": 1000
+    },
+    {
+        "id": "exterior-03",
+        "titulo": "exterior-03",
+        "imagen": "./img/exteriores/03.jpg",
+        "categoria": {
+            "nombre": "Exteriores",
+            "id": "exteriores"
+        },
+        "precio": 1000
+    },
+    {
+        "id": "exterior-04",
+        "titulo": "exterior-04",
+        "imagen": "./img/exteriores/04.jpg",
+        "categoria": {
+            "nombre": "Exteriores",
+            "id": "exteriores"
+        },
+        "precio": 1000
+    },
+    {
+        "id": "decoracion-01",
+        "titulo": "decoracion-01",
+        "imagen": "./img/decoraciones/01.jpg",
+        "categoria": {
+            "nombre": "Decoraciones",
+            "id": "decoraciones"
+        },
+        "precio": 1000
+    },
+    {
+        "id": "decoracion-02",
+        "titulo": "decoracion-02",
+        "imagen": "./img/decoraciones/02.jpg",
+        "categoria": {
+            "nombre": "Decoraciones",
+            "id": "decoraciones"
+        },
+        "precio": 1000
+    },
+    {
+        "id": "decoracion-03",
+        "titulo": "decoracion-03",
+        "imagen": "./img/decoraciones/03.jpg",
+        "categoria": {
+            "nombre": "Decoraciones",
+            "id": "decoraciones"
+        },
+        "precio": 1000
+    },
+    {
+        "id": "decoracion-04",
+        "titulo": "decoracion-04",
+        "imagen": "./img/decoraciones/04.jpg",
+        "categoria": {
+            "nombre": "Decoraciones",
+            "id": "decoraciones"
+        },
+        "precio": 1000
+    }
+]
